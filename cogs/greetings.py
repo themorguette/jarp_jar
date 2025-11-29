@@ -17,6 +17,7 @@ class Greetings(commands.Cog):
 
         if not flso:
             await priop.send(f"Please enter a First level Secondary Operation for the Primary operation greetings. {help_string}")
+            return
         if flso not in FLSO:
             await priop.send(f"Please enter a valid First Level Secondary Operation for the Primary Operation greetings. {help_string}")
             return
