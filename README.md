@@ -38,7 +38,7 @@ Any additional Secondary Operations will be classified as the Second Level Secon
 > `jarp role --create-role --name "jarp" colour #123123`
 
 **The Desired Hierarchy:**
-JARP_COMMAND_STRUCTURE
+
 jarp (JARP's Prefix) --> role (Primary Operation) --> --create-role (FLSO) --> --name (SLSO) <argument> --colour (SLSO) <argument>
 
 
