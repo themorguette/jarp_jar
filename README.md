@@ -39,7 +39,7 @@ Any additional Secondary Operations will be classified as the Second Level Secon
 
 **The Desired Hierarchy:**
 
-jarp (JARP's Prefix) --> role (Primary Operation) --> --create-role (FLSO) --> --name (SLSO) <argument> --colour (SLSO) <argument>
+`jarp (JARP's Prefix) --> role (Primary Operation) --> --create-role (FLSO) --> --name (SLSO) <argument> --colour (SLSO) <argument>`
 
 
 
